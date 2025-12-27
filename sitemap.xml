@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <!-- ONLY HOME PAGE - because you only have index.html -->
   <url>
-    <loc>https://ffbetgame.pro</loc>
-    <lastmod>2024-12-22</lastmod>
-    <changefreq>daily</changefreq>
+    <loc>https://www.yonogamez.com/</loc>
+    <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
-  
 </urlset>
